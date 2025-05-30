@@ -1,0 +1,11 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start; /* Alinha os itens à esquerda */
+}
+
+/* Você também pode querer definir uma largura para os inputs */
+form input {
+    width: 250px; /* Ou o tamanho que desejar */
+}
